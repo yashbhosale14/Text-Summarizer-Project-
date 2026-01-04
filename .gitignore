@@ -207,3 +207,29 @@ marimo/_lsp/
 __marimo__/
 artifacts/*
 
+# Python
+__pycache__/
+*.pyc
+
+# Artifacts & data
+artifacts/
+*.arrow
+*.csv
+*.zip
+*.bin
+*.pt
+
+# Datasets
+samsum_dataset/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env & IDE
+.env
+.vscode/
+
+# OS
+.DS_Store
+
