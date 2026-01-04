@@ -49,9 +49,8 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
+Author: Yash Bhosale 
+Email: bhosaleyash14@gmail.com
 
 ```
 
@@ -124,7 +123,7 @@ Email: krishnaik06@gmail.com
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = ap-south-1
 
     AWS_ECR_LOGIN_URI = demo>>  824943412938.dkr.ecr.ap-south-1.amazonaws.com/text-s
 
